@@ -13,7 +13,7 @@ p:nth-child(2){
 	color: black;
 }
 p:last-child{
-	color: black;
+	color: red;
 }
 
 li{
